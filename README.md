@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# Hey I'm Christian Abrokwa , a Software Engineer.
+
+
 
 <!--
 **10829272/10829272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
